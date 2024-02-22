@@ -1,6 +1,6 @@
 [![GitHub lamchau](https://img.shields.io/github/followers/lamchau?label=follow&style=social)](https://github.com/lamchau)
 [![LinkedIn: lamchau](https://img.shields.io/badge/-lamchau-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lamchau/)](https://www.linkedin.com/in/lamchau/)
-[![Views](https://visitor-badge.glitch.me/badge?page_id=lamchau)](#)
+[![Views](https://komarev.com/ghpvc/?username=lamchau)](#)
 
 [![](https://github.com/lamchau/lamchau/blob/master/dino-roar.gif)](#)
 
