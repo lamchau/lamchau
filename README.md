@@ -2,7 +2,7 @@
 [![LinkedIn: lamchau](https://img.shields.io/badge/-lamchau-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lamchau/)](https://www.linkedin.com/in/lamchau/)
 [![Views](https://komarev.com/ghpvc/?username=lamchau)](#)
 
-[![](https://github.com/lamchau/lamchau/blob/master/dino-roar.gif)](#)
+[![](https://github.com/lamchau/lamchau/blob/main/dino-roar.gif)](#)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
