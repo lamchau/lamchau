@@ -6,9 +6,9 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages for @lamchau" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamchau&layout=compact&hide_border=true">
+    <img alt="Top Languages for @lamchau" src="./profile/top-langs.svg">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats for @lamchau" src="https://github-readme-stats.vercel.app/api?username=lamchau&show_icons=true&hide_rank=true&count_private=false&disable_animations=true&hide_title=true&hide_border=true">
+    <img alt="GitHub Stats for @lamchau" src="./profile/stats.svg">
   </a>
 </p>
