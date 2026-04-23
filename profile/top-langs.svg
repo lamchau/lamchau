@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="425"
-        viewBox="0 0 300 425"
+        height="215"
+        viewBox="0 0 300 215"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -118,237 +118,188 @@
           transform="translate(0, 55)"
         >
           
-    <svg data-testid="lang-items">
-      <g transform="translate(0, 0)">
-        <svg data-testid="donut">
-          
-      <g class="stagger" style="animation-delay: 100ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#b07219"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="0"
-          size="41.646469877438285"
-          data-testid="lang-donut"
+    <svg data-testid="lang-items" x="25">
+      
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="57.69"
+          height="8"
+          fill="#663399"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 200ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#3572A5"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="209.33799010385397"
-          size="24.759537372691177"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="57.69"
+          y="0"
+          width="51.28"
+          height="8"
+          fill="#e34c26"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 300ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#f1e05a"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="333.79299924997963"
-          size="16.02244087692042"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="108.97"
+          y="0"
+          width="44.87"
+          height="8"
+          fill="#b07219"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 400ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#e34c26"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="414.3305713323956"
-          size="5.038839979285345"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="153.84"
+          y="0"
+          width="32.05"
+          height="8"
+          fill="#f1e05a"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 500ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#00ADD8"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="439.6585435908554"
-          size="3.8184015190747456"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="185.89"
+          y="0"
+          width="25.64"
+          height="8"
+          fill="#3572A5"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 600ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#701516"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="458.8519230481055"
-          size="3.2943207319178316"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="211.52999999999997"
+          y="0"
+          width="12.82"
+          height="8"
+          fill="#89e051"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 700ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#89e051"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="475.4109851440441"
-          size="2.9338857241498357"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="224.34999999999997"
+          y="0"
+          width="16.41"
+          height="8"
+          fill="#384d54"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 800ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#663399"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="490.15830328398187"
-          size="1.23045054375971"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="230.75999999999996"
+          y="0"
+          width="16.41"
+          height="8"
+          fill="#00ADD8"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 900ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#012456"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="496.3432223061916"
-          size="0.697393405834628"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="237.16999999999996"
+          y="0"
+          width="16.41"
+          height="8"
+          fill="#701516"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 1000ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#384d54"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="499.84870390688286"
-          size="0.5582599689280165"
-          data-testid="lang-donut"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="243.57999999999996"
+          y="0"
+          width="16.41"
+          height="8"
+          fill="#012456"
         />
-      </g>
-    
-        </svg>
-      </g>
-      <g transform="translate(0, 220)">
-        <svg data-testid="lang-names" x="25">
-          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 41.65%
+        CSS 23.08%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 24.76%
+        HTML 20.51%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 16.02%
+        Java 17.95%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 5.04%
+        JavaScript 12.82%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 3.82%
+        Python 10.26%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#701516" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 3.29%
+        Shell 5.13%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 2.93%
+        Just 2.56%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 1.23%
+        Go 2.56%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <circle cx="5" cy="6" r="5" fill="#701516" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 0.70%
+        Ruby 2.56%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Just 0.56%
+        PowerShell 2.56%
       </text>
     </g>
   </g></g>
-        </svg>
-      </g>
+    </g>
+  
     </svg>
   
         </g>
